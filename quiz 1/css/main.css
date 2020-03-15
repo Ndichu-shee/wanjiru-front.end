@@ -1,0 +1,26 @@
+body{
+     background-color:gray;
+     color:white;
+     font-size: 20px;
+     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdRqEOx0rD0TPxp92l-oE3OicPqVkiiErbaDd-SJDOkSeuTo-e);:
+ }
+h1{
+	font-size: 55px
+	text-align:right;
+	color: tomato;
+}
+h2{
+	font-size: 25px;
+	text-align: right;
+	color: silver;
+}
+ol{
+	font-size: 40px;
+	text-align: left;
+	color:purple;
+}
+ul{
+	font-size:30px;
+	text-align: left;
+	color:blue;
+}
